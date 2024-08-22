@@ -1,4 +1,4 @@
-Task1:
+# Task1:
 
 Can you create a Program I will give you number(userinput and print table)
 f"{}" String format concept
@@ -6,7 +6,7 @@ User input - num int -> 10, 100, -1, 2, 3.14 -> input
 9x1 = 9
 9x2 = 18... till 10
 
-Task2: 
+# Task2: 
 
 Create a program , take 2 inputs from the user num1, num2 and give them
 max
@@ -14,7 +14,7 @@ pow num1 to num2
 sub, mul, sum, div.
 Format your out with f{""}
 
-Task3: 
+# Task3: 
 
 - Explain the difference between the = operator and the == operator in Python.
 
@@ -22,22 +22,22 @@ Task3:
 
 - What does the ^ operator do in Python, and in what context is it commonly used?
 
-Task4:
+# Task4:
 
 - Write a Python program to calculate the area of a circle given its radius using the formula ``` area=π×r^2``` 
 - ( Take pie as 3.14)ask #5
 
-Task5:
+# Task5:
 
 - Create a program that takes two numbers as input and 
 - prints whether the first number is greater than, less than, or equal to the second number.
 
-Task6:
+# Task6:
 
 - Develop a Python script that calculates the square and cube of a given number.
 
 
-### Task #7
+# Task 7
 
 ✅ Leap Year Checker:
 
@@ -52,7 +52,7 @@ Use an if-else statement to make this determination.
 
 
 
-### Task #8
+# Task 8
 
 ✅ Triangle Classifier:
 
@@ -70,10 +70,7 @@ isosceles (exactly two sides are equal), or scalene (no sides are equal).
 Use an if-else statement to classify the triangle.
 
 
-
-
-
-### Task #9
+# Task 9
 
 ✅ FizzBuzz Test:
 
@@ -84,6 +81,26 @@ However, for multiples of 3, print "Fizz" instead of the number, and
 for multiples of 5, print "Buzz."
 
 For numbers that are multiples of both 3 and 5, print "FizzBuzz."
+
+#  Task 10 - Factorial
+
+n = 5
+
+5! -->5*4*3*2*1 -> 120
+
+3! -> 3*2*1 -> 6
+
+4! -> 4*3*2*1 -> 24
+
+# Task 11 - Fibonacci series
+
+0,0+1, 0+1+1,
+
+n = 7 
+
+0, 1, 2, 3, 5, 8, 13
+
+
 
 
 

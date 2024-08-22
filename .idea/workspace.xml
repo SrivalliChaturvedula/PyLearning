@@ -4,26 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dca55fa2-de83-43e3-9ed5-eb21340b04f8" name="Changes" comment="Tasks 7, 8 and 9 are added">
+    <list default="true" id="dca55fa2-de83-43e3-9ed5-eb21340b04f8" name="Changes" comment="Loops files added">
       <change afterPath="$PROJECT_DIR$/src/Tasks/Task010.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Tasks/Task011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab0040.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab0041.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab0042.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab0043.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab0044.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab0045.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab0046.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab0047.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab0048.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab0049.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab0050.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab0051.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab0052.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Tasks/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab0014.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13082024/Lab0014.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab0022.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13082024/Lab0022.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,29 +121,7 @@
       <recent name="C:\Users\Chatu\PycharmProjects\PyLearning\src\ex_13082024\Tasks" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab0052">
-    <configuration name="Lab0047" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_22082024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_22082024/Lab0047.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Task011">
     <configuration name="Lab0048" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning" />
       <option name="ENV_FILES" value="" />
@@ -247,13 +210,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Task011" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Tasks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Tasks/Task011.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Task011" />
         <item itemvalue="Python.Lab0052" />
         <item itemvalue="Python.Lab0051" />
         <item itemvalue="Python.Lab0049" />
         <item itemvalue="Python.Lab0048" />
-        <item itemvalue="Python.Lab0047" />
       </list>
     </recent_temporary>
   </component>
@@ -345,7 +330,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724147344396</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Loops files added">
+      <option name="closed" value="true" />
+      <created>1724322608680</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1724322608680</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -357,6 +350,7 @@
     <MESSAGE value="Literals and operators topic files are added" />
     <MESSAGE value="if else practice files are added" />
     <MESSAGE value="Tasks 7, 8 and 9 are added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tasks 7, 8 and 9 are added" />
+    <MESSAGE value="Loops files added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Loops files added" />
   </component>
 </project>
