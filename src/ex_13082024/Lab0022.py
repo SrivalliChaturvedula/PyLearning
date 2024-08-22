@@ -17,7 +17,7 @@ print(name)
 
 first_name = "Sri"
 last_name = "valli"
-full_name = first_name + last_name # Concatination
+full_name = first_name + last_name # Concatenation
 print(full_name)
 
 how_many_planes_i_have = None

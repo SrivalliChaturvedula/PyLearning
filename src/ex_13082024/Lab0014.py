@@ -5,7 +5,7 @@ print(age)
 
 age: variable name - identifier
 
-= : assigment operator (right to left)
+= : assignment operator (right to left)
 
 65: variable value - literal
 
