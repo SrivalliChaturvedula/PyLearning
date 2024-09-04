@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dca55fa2-de83-43e3-9ed5-eb21340b04f8" name="Changes" comment="Classes and objects files added." />
+    <list default="true" id="dca55fa2-de83-43e3-9ed5-eb21340b04f8" name="Changes" comment="Assignment on classes and objects done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -434,7 +434,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725099075448</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Assignment on classes and objects done">
+      <option name="closed" value="true" />
+      <created>1725449840297</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1725449840297</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -452,8 +460,8 @@
     <MESSAGE value="Changes in Task10 are done" />
     <MESSAGE value="Functions, Decorators and lambda function files." />
     <MESSAGE value="Lists, tuples, Sets and Dictionaries files are added." />
-    <MESSAGE value="Assignment on classes and objects done" />
     <MESSAGE value="Classes and objects files added." />
-    <option name="LAST_COMMIT_MESSAGE" value="Classes and objects files added." />
+    <MESSAGE value="Assignment on classes and objects done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment on classes and objects done" />
   </component>
 </project>
