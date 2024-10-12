@@ -5,21 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dca55fa2-de83-43e3-9ed5-eb21340b04f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/September/ex_05092024/Lab110.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_05092024/Lab111.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_05092024/Lab112.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_05092024/Lab113.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_05092024/Lab114.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_05092024/Lab115.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_05092024/Lab116.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_05092024/Lab117.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_05092024/Lab118.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_05092024/Lab119.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_05092024/Lab120.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_05092024/Lab121.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_05092024/Lab122.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_05092024/Lab123.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_05092024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/Lab162.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/test_Lab163.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/test_Lab164.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/test_Lab165.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/test_Lab166.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/test_Lab167.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/test_Lab168.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/test_Lab169.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/test_Lab170.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/test_Lab171.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/test_Lab172.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/test_Lab173.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/test_Lab174.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/ex_27092024_API/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/ex_27092024_API/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +67,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python tests.Python tests for test_Lab164.test_verify_sub.executor": "Run",
+    "Python tests.Python tests for test_Lab164.test_verify_sum.executor": "Run",
+    "Python tests.Python tests for test_Lab167.test_get_single_request_by_id.executor": "Run",
+    "Python tests.Python tests for test_Lab169.test_delete.executor": "Run",
+    "Python tests.Python tests for test_Lab169.test_put_request_positive.executor": "Run",
+    "Python tests.Python tests for test_Lab170.test_I_need_confirmation.executor": "Run",
+    "Python tests.Python tests for test_Lab171.test_consume.executor": "Run",
+    "Python tests.Python tests for test_Lab172.test_update_req_1.executor": "Run",
+    "Python tests.Python tests for test_Lab173.test_selenium.executor": "Run",
+    "Python tests.Python tests for test_Lab174.test_update_req.executor": "Run",
     "Python.Lab0012.executor": "Run",
     "Python.Lab0013.executor": "Run",
     "Python.Lab0014.executor": "Run",
@@ -159,6 +173,11 @@
     "Python.Lab120.executor": "Run",
     "Python.Lab121.executor": "Run",
     "Python.Lab122.executor": "Run",
+    "Python.Lab156.executor": "Run",
+    "Python.Lab157.executor": "Run",
+    "Python.Lab158.executor": "Run",
+    "Python.Lab160.executor": "Run",
+    "Python.Lab161.executor": "Run",
     "Python.Task001.executor": "Run",
     "Python.Task002.executor": "Run",
     "Python.Task003.executor": "Run",
@@ -170,6 +189,7 @@
     "Python.Task009.executor": "Run",
     "Python.Task010.executor": "Run",
     "Python.Task011.executor": "Run",
+    "Python.app.executor": "Run",
     "Python.lab001.executor": "Run",
     "Python.lab002.executor": "Run",
     "Python.lab003.executor": "Run",
@@ -189,131 +209,96 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Chatu\PycharmProjects\PyLearning\src\" />
       <recent name="C:\Users\Chatu\PycharmProjects\PyLearning\src\August" />
       <recent name="C:\Users\Chatu\PycharmProjects\PyLearning\src\ex_29082024" />
       <recent name="C:\Users\Chatu\PycharmProjects\PyLearning\src" />
-      <recent name="C:\Users\Chatu\PycharmProjects\PyLearning\src\" />
       <recent name="C:\Users\Chatu\PycharmProjects\PyLearning\src\ex_13082024\Tasks" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab123">
-    <configuration name="Lab119" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test_Lab174.test_update_req">
+    <configuration name="Python tests for test_Lab170.test_I_need_confirmation" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/September/ex_05092024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/October" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/September/ex_05092024/Lab119.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab170.test_I_need_confirmation&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab120" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab171.test_consume" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/September/ex_05092024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/October" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/September/ex_05092024/Lab120.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab171.test_consume&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab121" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab172.test_update_req_1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/September/ex_05092024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/October" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/September/ex_05092024/Lab121.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab172.test_update_req_1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab122" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab173.test_selenium" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/September/ex_05092024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/October" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/September/ex_05092024/Lab122.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab173.test_selenium&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab123" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab174.test_update_req" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/September/ex_05092024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/October" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/September/ex_05092024/Lab123.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab174.test_update_req&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab123" />
-        <item itemvalue="Python.Lab122" />
-        <item itemvalue="Python.Lab121" />
-        <item itemvalue="Python.Lab120" />
-        <item itemvalue="Python.Lab119" />
+        <item itemvalue="Python tests.Python tests for test_Lab174.test_update_req" />
+        <item itemvalue="Python tests.Python tests for test_Lab173.test_selenium" />
+        <item itemvalue="Python tests.Python tests for test_Lab172.test_update_req_1" />
+        <item itemvalue="Python tests.Python tests for test_Lab171.test_consume" />
+        <item itemvalue="Python tests.Python tests for test_Lab170.test_I_need_confirmation" />
       </list>
     </recent_temporary>
   </component>
@@ -453,7 +438,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725600846029</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="OOP's concept">
+      <option name="closed" value="true" />
+      <created>1726212094955</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1726212094955</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
